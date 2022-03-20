@@ -65,7 +65,7 @@ The project can then be viewed using any web browser such as chrome at the follo
 ```http://127.0.0.1:5000/```
 
 
-## Credits
+## Acknowledgements
 
 This project was done under the guidance of prof. Noopa Jagadeesh. The majority of the code was provided by them.
 
