@@ -69,6 +69,9 @@ The project can then be viewed using any web browser such as chrome at the follo
 
 This project was done under the guidance of prof. Noopa Jagadeesh. The majority of the code was provided by them.
 
+## License
+
+This project is licensed under the MIT License.
 
 ## How to contribute
 
