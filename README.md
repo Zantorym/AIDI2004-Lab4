@@ -71,7 +71,7 @@ This project was done under the guidance of prof. Noopa Jagadeesh. The majority 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
 ## How to contribute
 
